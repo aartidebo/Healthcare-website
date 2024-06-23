@@ -1,0 +1,46 @@
+*{
+    border-width: 10px;
+    border-color: black;
+}
+.banner{
+    /* Set background image */
+    background-image: url('assets/Banner.jpg');
+    /* Set background size */
+    background-size: cover;
+    /* Set background position */
+    background-position: center;
+    /* Add padding */
+    padding-top: 100px;
+    padding-bottom: 100px;
+    /* Add text color for better readability */
+}
+ /* Banner Content Styles */
+ .banner-content {
+   background-color: rgb(192, 246, 192);
+}
+.feature , .footer, .header{
+    background-color: rgb(192, 246, 192);
+}
+.doctor{
+    background-color: rgb(175, 240, 219);
+    padding: 10px;
+}
+/* Hero Section Styles */
+.jumbotron {
+    /* Add padding */
+    padding: 50px 0; /* Adjust as needed */
+}
+#link_services{
+    background-color: #e9ecef;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.img-box{
+    overflow: hidden;
+}
+.contact{
+    background-color: cadetblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
